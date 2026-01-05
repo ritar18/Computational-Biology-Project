@@ -8,7 +8,7 @@ The project is made up of 2 parts:
 - The Kevlar workflow and its performance
 (File: LitReview.pdf)
 
-2) Practical Notebook – Documentation of:
+2) Practical Notebook: Documentation of:
 - Installation of Kevlar and dependencies
 - Running Kevlar on example dataset
 - Troubleshooting errors and solutions
